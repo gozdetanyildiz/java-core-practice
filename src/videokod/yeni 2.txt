@@ -1,0 +1,7 @@
+java 17
+intelice  j idea 
+ altmeyt versiyounu jetbrians
+ java  projesi başlat 
+ hello roamles yazdır 
+ terminalden clasıı 
+ terminalde çalıştırma mantığını lamadan gellma 
