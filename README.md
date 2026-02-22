@@ -4,12 +4,19 @@ A structured Java core training repository covering fundamentals, OOP concepts, 
 
 ## 📚 Project Structure
 src/
+
 └── core
+
 ├── basics → Java fundamentals
+
 ├── oop → Object-Oriented Programming concepts
+
 ├── system → Threads, Files, Date-Time, Exceptions
+
 ├── projects → Mini console-based projects
+
 └── notes → Personal notes
+
 
 ---
 
