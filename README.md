@@ -7,15 +7,15 @@ src/
 
 └── core
 
- ├── basics → Java fundamentals
+   ├── basics → Java fundamentals
 
- ├── oop → Object-Oriented Programming concepts
+   ├── oop → Object-Oriented Programming concepts
 
- ├── system → Threads, Files, Date-Time, Exceptions
+   ├── system → Threads, Files, Date-Time, Exceptions
 
- ├── projects → Mini console-based projects
+   ├── projects → Mini console-based projects
 
- └── notes → Personal notes
+   └── notes → Personal notes
 
 
 ---
