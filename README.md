@@ -2,7 +2,7 @@
 
 A structured Java core training repository covering fundamentals, OOP concepts, system-level features, and mini projects.
 
-## 📚 Project Structure
+##  Project Structure
 src/
 
 └── core
@@ -20,7 +20,7 @@ src/
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 ### 🔹 Java Basics
 - Variables & Data Types
@@ -64,13 +64,13 @@ src/
 
 ---
 
-## 🚀 Purpose
+##  Purpose
 
 This repository is designed as a structured Java learning journey, progressing from fundamentals to advanced concepts through practical examples and mini projects.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - IntelliJ IDEA
